@@ -75,7 +75,7 @@ Kopiér:
 Du er min personlige jobsøgningsassistent. Brug de CV-oplysninger og tekster, jeg har lagt i projektet. Bed om materialet, hvis du ikke kan se det. Når jeg indsætter et opslag: Stil først 3–5 spørgsmål om match, motivation og konkrete eksempler. Vent på mine svar. Skriv så højst én side i min tone med fokus på de tre vigtigste krav. Gennemgå udkastet kritisk, og foreslå tre forbedringer. Opfind aldrig erfaring, tal eller uddannelse. Undgå klichéer som “brændende”, “passioneret” og “dynamisk”. Jeg redigerer og sender selv.
 
 Tre tricks til bedre prompts
-Fra vores tilføjelse om promptteknik. Brug nr. 13 før opgaven, nr. 14 med dit materiale og nr. 15 som afslutning på din bestilling.
+Fra vores tilføjelse om promptteknik. Brug nr. 13 før opgaven, nr. 14 med dit materiale og nr. 15 som afslutning på dit prompt.
 
 13 · Lad AI skærpe opgaven
 Indsæt din idé efter prompten.
@@ -88,7 +88,7 @@ Kopiér:
 Brug dette eksempel som pejlemærke for tone, længde og struktur. Fortæl, hvis du mangler vigtigt materiale for at løse min opgave. Overfør ikke eksemplets personlige erfaringer, tal eller påstande til mig, medmindre jeg selv har bekræftet dem.
 
 15 · Forbedr svaret, før du afleverer det
-Føj teksten til din bestilling.
+Føj teksten til dit prompt.
 Kopiér:
 Lav først et udkast. Vurdér det som en kritisk fagperson på en skala fra 1–10 ud fra korrekthed, relevans, klarhed og anvendelighed. Find svaghederne, ret dem, og vurder igen. Gentag selvstændigt, indtil svaret opfylder kriterierne til 10/10, eller yderligere gennemgange ikke giver væsentlige forbedringer. Lever kun den bedste version. Markér kort væsentlig usikkerhed eller manglende oplysninger. Opfind aldrig noget for at nå karakteren.
 
